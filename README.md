@@ -1,4 +1,3 @@
-
 <img align="right" src="./image/computer-illustration.png" width="300"/>
 
 <a href="">
@@ -11,8 +10,7 @@
 
 <br/>
 
-
-### Hey! Welcome to my profile! How is it going? 👋
+### Hi my name is João welcome to my profile! 👋
 
 - 🚀 I’m currently a Computer Science Student (UFAL)
 - 💻 Python, HTML5, CSS3 and JavaScript
