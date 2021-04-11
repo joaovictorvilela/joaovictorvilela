@@ -5,7 +5,7 @@
 </a>
 
 <a href="">
-<img align="right" alt="E-mail" src="https://img.shields.io/badge/-My%20personal%20website-4B0082"/>
+<img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reache%20me-orange"/>
 </a>
 
 <br/>
