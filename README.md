@@ -1,7 +1,7 @@
 <img align="right" src="./image/computer-illustration.png" width="300"/>
 
 <a href="https://joaovictorvilela.github.io/my-linktree/">
-<img align="right" alt="My Linktree" src="https://img.shields.io/badge/-My LinkTree-blue"/>
+<img align="right" alt="My Linktree" src="https://img.shields.io/badge/-My Linktree-blue"/>
 </a>
 
 <a href="mailto:joaovvsantos@protonmail.com">
