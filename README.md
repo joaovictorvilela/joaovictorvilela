@@ -1,6 +1,6 @@
 <img align="right" src="./image/computer-illustration.png" width="300"/>
 
-<br/>
+
 
 ### Hi my name is João welcome to my profile! 👋
 
