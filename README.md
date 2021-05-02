@@ -1,10 +1,10 @@
 <img align="right" src="./image/computer-illustration.png" width="300"/>
 
-<a href="https://www.linkedin.com/in/micaellimedeiros">
-<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Micaelli%20Medeiros-blue"/>
+<a href="https://joaovictorvilela.github.io/my-linktree/">
+<img align="right" alt="My Linktree" src="https://img.shields.io/badge/-My LinkTree-blue"/>
 </a>
 
-<a href="mailto:m.amedeiros@hotmail.com">
+<a href="mailto:joaovvsantos@protonmail.com">
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
 </a>
 
