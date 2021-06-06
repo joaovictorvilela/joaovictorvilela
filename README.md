@@ -1,6 +1,6 @@
 <img align="right" src="./image/computer-illustration.png" width="300"/>
 
-<a href="https://joaovictorvilela.github.io/my-linktree/">
+<a href="https://joaovictorvilela.github.io/Linktree-Custom/">
 <img align="right" alt="My Linktree" src="https://img.shields.io/badge/-My Linktree-blue"/>
 </a>
 
