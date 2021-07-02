@@ -13,5 +13,5 @@
 ### Hey! Welcome to my profile! How is it going? 👋
 
 - 🚀 I’m currently a Computer Science Student (UFAL)
-- 💻 Python, Django, HTML5, CSS3 and JavaScript
+- 💻 Python, Django, HTML and CSS3 
 - ✨ Learning is continuous and there will always be a next level
